@@ -104,13 +104,13 @@ seaborn
 ![Upload](Landing_page.png)
 
 ### 🔍 Single Bird Prediction
-![Single](Single_bird.png)
+![Single](Single_bird.jpg)
 
 ### 🦜 Multiple Bird Segments
-![Multi](Multiple_birds.png)
+![Multi](Multiple_birds.jpg)
 
 ### 📊 Summary and Confusion Matrix
-![Confusion](Confusion_Matrix.png)
+![Confusion](Confusion_Matrix.jpg)
 
 ---
 
