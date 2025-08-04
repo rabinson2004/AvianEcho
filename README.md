@@ -3,6 +3,7 @@
 
 **Avian Echo** is a Streamlit-based deep learning application that identifies and counts bird species from audio recordings using a trained EfficientNet-B2 model and log-mel spectrogram analysis.
 
+
 ---
 
 ## 🚀 Features
@@ -99,17 +100,17 @@ seaborn
 
 ## 📸 Screenshots
 
-### 🎧 Upload Audio
-![Upload](screenshots/upload_audio.png)
+### 🎧 Landing Page
+![Upload](Landing_page.png)
 
 ### 🔍 Single Bird Prediction
-![Single](screenshots/single_bird.png)
+![Single](Single_bird.png)
 
 ### 🦜 Multiple Bird Segments
-![Multi](screenshots/multi_bird_segments.png)
+![Multi](Multiple_birds.png)
 
 ### 📊 Summary and Confusion Matrix
-![Confusion](screenshots/confusion_matrix.png)
+![Confusion](Confusion_Matrix.png)
 
 ---
 
@@ -130,17 +131,7 @@ seaborn
 
 ---
 
-## 👨‍🔬 Authors
+ 
 
-- A. Hamilton Infant  
-- G. Rabinson  
-- M.J. Theo Savio  
-**Guide**: Ms. T. Anitha Dorothy  
-**Affiliation**: Saranathan College of Engineering, Trichy – 620012  
-**Department**: Artificial Intelligence and Data Science
 
----
 
-## 📜 License
-
-This project is for academic and educational purposes. Please cite appropriately if reused.
